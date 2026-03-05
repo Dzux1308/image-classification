@@ -7,10 +7,9 @@
 Dự án này thực hiện phân loại hình ảnh (Image Classification) trên tập dữ liệu **[Garbage Classification]**. Mục tiêu chính là xây dựng, huấn luyện và so sánh hiệu năng của nhiều mô hình học sâu (Deep Learning) khác nhau để tìm ra phương pháp tối ưu nhất.
 
 ## 📊 Tập dữ liệu (Dataset)
-*   **Nguồn:**[Link nguồn data nếu có, vd: Kaggle]
+*   **Nguồn:**[(https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)]
 *   **Số lượng:**[vd: 10,000 ảnh training, 2,000 ảnh test]
-*   **Các nhãn (Classes):**[Liệt kê các class, vd: Dog, Cat, Bird...]
-*(Gợi ý: Hãy chèn 1 bức ảnh chụp màn hình hiển thị vài sample data vào đây)*
+*   **Các nhãn (Classes):**[Cáp tông (393), kính (491), Kim loại (400), Giấy(584), Nhựa (472) and Rác(127)]
 
 ## 🧠 Các mô hình đã triển khai (Models Implemented)
 Dự án so sánh các mô hình sau:
