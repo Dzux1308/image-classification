@@ -14,10 +14,9 @@ Dự án này thực hiện phân loại hình ảnh (Image Classification) trê
 
 ## 🧠 Các mô hình đã triển khai (Models Implemented)
 Dự án so sánh các mô hình sau:
-1.  **Custom CNN**: Mạng chập tự xây dựng cơ bản.
-2.  **ResNet50 (Transfer Learning)**: [Ghi chú thêm nếu bạn dùng pre-trained]
-3.  **VGG16**: ...
-*(Liệt kê các model thực tế bạn đã code trong file ipynb)*
+1.  **Custom CNN**
+2.  **ResNet50 (Transfer Learning)**
+3.  **VGG16**
 
 ## 📈 Kết quả & Đánh giá (Results & Evaluation)
 *(Phần này NHẤT ĐỊNH PHẢI CÓ để nhà tuyển dụng thấy bạn làm ra kết quả)*
