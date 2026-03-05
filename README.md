@@ -2,10 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch/TensorFlow](https://img.shields.io/badge/Framework-PyTorch_or_TensorFlow-orange.svg) 
-*(Sửa lại logo framework bạn dùng)*
 
 ## 📌 Giới thiệu dự án (Project Overview)
-Dự án này thực hiện phân loại hình ảnh (Image Classification) trên tập dữ liệu **[Tên Dataset của bạn, vd: CIFAR-10 / Cats vs Dogs]**. Mục tiêu chính là xây dựng, huấn luyện và so sánh hiệu năng của nhiều mô hình học sâu (Deep Learning) khác nhau để tìm ra phương pháp tối ưu nhất.
+Dự án này thực hiện phân loại hình ảnh (Image Classification) trên tập dữ liệu **[Garbage Classification]**. Mục tiêu chính là xây dựng, huấn luyện và so sánh hiệu năng của nhiều mô hình học sâu (Deep Learning) khác nhau để tìm ra phương pháp tối ưu nhất.
 
 ## 📊 Tập dữ liệu (Dataset)
 *   **Nguồn:**[Link nguồn data nếu có, vd: Kaggle]
@@ -29,7 +28,8 @@ Dự án so sánh các mô hình sau:
 
 > **Nhận xét:** Mô hình ResNet50 cho kết quả tốt nhất do tận dụng được Transfer Learning...
 
-*(Hãy chèn biểu đồ Loss/Accuracy hoặc Confusion Matrix của bạn vào đây. Chụp màn hình từ Notebook và upload lên)*
+<img width="1455" height="473" alt="Screenshot_1" src="https://github.com/user-attachments/assets/372833d1-5508-4504-aed4-e54ae06057fa" />
+
 
 ## 🚀 Hướng dẫn cài đặt và sử dụng (Getting Started)
 **1. Clone dự án:**
