@@ -17,7 +17,6 @@ Dự án so sánh các mô hình sau:
 3.  **VGG16**
 
 ## 📈 Kết quả & Đánh giá (Results & Evaluation)
-*(Phần này NHẤT ĐỊNH PHẢI CÓ để nhà tuyển dụng thấy bạn làm ra kết quả)*
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
 | Custom CNN | 75% | 0.74 | 0.75 | 0.74 |
